@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+gem build bontena.gemspec
+gem install bontena-0.1.0.gem
